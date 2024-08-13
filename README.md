@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasoda-krishna" alt="yasoda-krishna" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, React**
+- 🌱 I’m currently learning **Event Driven Development**
 
 - 💬 Ask me about **Java, Spring boot,AWS, Docker and SQL**
 
